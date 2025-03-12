@@ -1,0 +1,1067 @@
+{
+    "hollow": {
+      "definition": "having a hole or empty space inside",
+      "translations": {
+        "word": {
+          "spanish": "hueco",
+          "french": "creux",
+          "german": "hohl",
+          "hindi": "खोखला",
+          "tamil": "குழி"
+        },
+        "definition": {
+          "spanish": "que tiene un agujero o un espacio vacío dentro",
+          "french": "ayant un trou ou un espace vide à l'intérieur",
+          "german": "ein Loch oder einen leeren Raum im Inneren haben",
+          "hindi": "अंदर एक छेद या खाली जगह होना",
+          "tamil": "உள்ளே ஒரு துளை அல்லது காலி இடம் உள்ளது"
+        }
+      }
+    },
+    "enchantment": {
+      "definition": "a magical spell or charm",
+      "translations": {
+        "word": {
+          "spanish": "encantamiento",
+          "french": "enchantement",
+          "german": "Verzauberung",
+          "hindi": "जादू",
+          "tamil": "மந்திரவாதம்"
+        },
+        "definition": {
+          "spanish": "un hechizo o encanto mágico",
+          "french": "un sortilège ou un charme magique",
+          "german": "ein magischer Zauber oder Reiz",
+          "hindi": "एक जादुई मंत्र या आकर्षण",
+          "tamil": "ஒரு மந்திர ஜாடூ அல்லது கவர்ச்சி"
+        }
+      }
+    },
+    "trepidation": {
+      "definition": "a feeling of fear or anxiety about something that may happen",
+      "translations": {
+        "word": {
+          "spanish": "temor",
+          "french": "trépidation",
+          "german": "Angst",
+          "hindi": "घबराहट",
+          "tamil": "பயமடைதல்"
+        },
+        "definition": {
+          "spanish": "un sentimiento de miedo o ansiedad por algo que pueda suceder",
+          "french": "un sentiment de peur ou d'anxiété à propos de quelque chose qui pourrait arriver",
+          "german": "ein Gefühl der Angst oder Besorgnis über etwas, das passieren könnte",
+          "hindi": "कुछ होने के बारे में डर या चिंता का एक अहसास",
+          "tamil": "ஏதோ ஒரு விஷயம் நடக்கும் என்ற அச்சம் அல்லது கவலை உணர்வு"
+        }
+      }
+    },
+    "waned": {
+      "definition": "decreased gradually in size, amount, or intensity",
+      "translations": {
+        "word": {
+          "spanish": "disminuido",
+          "french": "diminué",
+          "german": "abgenommen",
+          "hindi": "घट गया",
+          "tamil": "குறைந்தது"
+        },
+        "definition": {
+          "spanish": "disminuyó gradualmente en tamaño, cantidad o intensidad",
+          "french": "diminué progressivement en taille, quantité ou intensité",
+          "german": "allmählich an Größe, Menge oder Intensität abgenommen",
+          "hindi": "आकार, मात्रा, या तीव्रता में धीरे-धीरे कमी आई",
+          "tamil": "அளவு, அளவு, அல்லது தீவிரம் படிப்படியாக குறைந்தது"
+        }
+      }
+    },
+    "resilient": {
+    "definition": "able to recover quickly from difficulties",
+    "translations": {
+      "word": {
+        "spanish": "resiliente",
+        "french": "résilient",
+        "german": "widerstandsfähig",
+        "hindi": "लचीला",
+        "tamil": "மீளும் திறன் உள்ள"
+      },
+      "definition": {
+        "spanish": "capaz de recuperarse rápidamente de las dificultades",
+        "french": "capable de se remettre rapidement des difficultés",
+        "german": "schnell von Schwierigkeiten erholen können",
+        "hindi": "कठिनाइयों से जल्दी उबरने में सक्षम",
+        "tamil": "கஷ்டங்களில் இருந்து விரைவாக மீளும் திறன் கொண்ட"
+      }
+    }
+  },
+  "molten": {
+    "definition": "made liquid by heat; melted",
+    "translations": {
+      "word": {
+        "spanish": "fundido",
+        "french": "fondu",
+        "german": "geschmolzen",
+        "hindi": "पिघला हुआ",
+        "tamil": "உருகியது"
+      },
+      "definition": {
+        "spanish": "hecho líquido por calor; derretido",
+        "french": "rendu liquide par la chaleur; fondu",
+        "german": "durch Hitze verflüssigt; geschmolzen",
+        "hindi": "गर्मी से तरल बना; पिघला हुआ",
+        "tamil": "வெப்பத்தால் திரவமாக மாற்றப்பட்டது; உருகியது"
+      }
+    }
+  },
+  "realm": {
+    "definition": "a kingdom or domain",
+    "translations": {
+      "word": {
+        "spanish": "reino",
+        "french": "royaume",
+        "german": "Reich",
+        "hindi": "साम्राज्य",
+        "tamil": "சாம்ராஜ்யம்"
+      },
+      "definition": {
+        "spanish": "un reino o dominio",
+        "french": "un royaume ou un domaine",
+        "german": "ein Königreich oder ein Bereich",
+        "hindi": "एक राज्य या क्षेत्र",
+        "tamil": "ஒரு அரசு அல்லது பகுதி"
+      }
+    }
+  },
+  "shrouded": {
+    "definition": "covered or hidden from view",
+    "translations": {
+      "word": {
+        "spanish": "envuelto",
+        "french": "enveloppé",
+        "german": "umhüllt",
+        "hindi": "छिपा हुआ",
+        "tamil": "மூடப்பட்டது"
+      },
+      "definition": {
+        "spanish": "cubierto u oculto a la vista",
+        "french": "couvert ou caché à la vue",
+        "german": "bedeckt oder vor Sicht verborgen",
+        "hindi": "दृश्य से छिपा हुआ",
+        "tamil": "கண்ணுக்குத் தெரியாமல் மறைக்கப்பட்டது அல்லது மூடப்பட்டது"
+      }
+    }
+  },
+  "grievances": {
+    "definition": "complaints or feelings of resentment",
+    "translations": {
+      "word": {
+        "spanish": "quejas",
+        "french": "griefs",
+        "german": "Beschwerden",
+        "hindi": "शिकायतें",
+        "tamil": "புகார்கள்"
+      },
+      "definition": {
+        "spanish": "quejas o sentimientos de resentimiento",
+        "french": "plaintes ou sentiments de ressentiment",
+        "german": "Beschwerden oder Gefühle des Grolls",
+        "hindi": "शिकायतें या कड़वाहट की भावना",
+        "tamil": "புகார்கள் அல்லது பழிவாங்கும் உணர்வுகள்"
+      }
+    }
+  },
+  "councils": {
+    "definition": "groups of people who make decisions or give advice",
+    "translations": {
+      "word": {
+        "spanish": "consejos",
+        "french": "conseils",
+        "german": "Räte",
+        "hindi": "परिषदें",
+        "tamil": "ஆணைக்குழுக்கள்"
+      },
+      "definition": {
+        "spanish": "grupos de personas que toman decisiones o dan consejos",
+        "french": "groupes de personnes qui prennent des décisions ou donnent des conseils",
+        "german": "Gruppen von Menschen, die Entscheidungen treffen oder Ratschläge geben",
+        "hindi": "लोगों के समूह जो निर्णय लेते हैं या सलाह देते हैं",
+        "tamil": "முடிவுகளை எடுக்கும் அல்லது ஆலோசனை தரும் மக்களின் குழுக்கள்"
+      }
+    }
+  },
+  "burden": {
+    "definition": "a heavy load or something that is difficult to carry or bear",
+    "translations": {
+      "word": {
+        "spanish": "carga",
+        "french": "fardeau",
+        "german": "Belastung",
+        "hindi": "बोझ",
+        "tamil": "சுமை"
+      },
+      "definition": {
+        "spanish": "una carga pesada o algo difícil de llevar o soportar",
+        "french": "une charge lourde ou quelque chose de difficile à porter ou à supporter",
+        "german": "eine schwere Last oder etwas, das schwer zu tragen oder zu ertragen ist",
+        "hindi": "एक भारी बोझ या कुछ जिसे उठाना या सहना मुश्किल हो",
+        "tamil": "ஒரு கனமான சுமை அல்லது சுமந்து செல்ல அல்லது தாங்கிக்கொள்ள கஷ்டமான ஒன்று"
+      }
+    }
+  },
+  "discontented": {
+    "definition": "dissatisfied or unhappy",
+    "translations": {
+      "word": {
+        "spanish": "descontento",
+        "french": "mécontent",
+        "german": "unzufrieden",
+        "hindi": "असंतुष्ट",
+        "tamil": "திருப்தியற்ற"
+      },
+      "definition": {
+        "spanish": "insatisfecho o infeliz",
+        "french": "insatisfait ou malheureux",
+        "german": "unzufrieden oder unglücklich",
+        "hindi": "असंतुष्ट या दुखी",
+        "tamil": "திருப்தியற்ற அல்லது மகிழ்ச்சியற்ற"
+      }
+    }
+  },
+  "fateful": {
+    "definition": "having far-reaching and often disastrous consequences",
+    "translations": {
+      "word": {
+        "spanish": "fatídico",
+        "french": "fatidique",
+        "german": "schicksalhaft",
+        "hindi": "विनाशकारी",
+        "tamil": "விபரீதமான"
+      },
+      "definition": {
+        "spanish": "con consecuencias de gran alcance y a menudo desastrosas",
+        "french": "ayant des conséquences de grande envergure et souvent désastreuses",
+        "german": "weitreichende und oft katastrophale Folgen haben",
+        "hindi": "दूरगामी और अक्सर विनाशकारी परिणामों वाला",
+        "tamil": "பரவலான மற்றும் பெரும்பாலும் விபரீத விளைவுகள் கொண்ட"
+      }
+    }
+  },
+  "exile": {
+    "definition": "being forced to leave one's home or country",
+    "translations": {
+      "word": {
+        "spanish": "exilio",
+        "french": "exil",
+        "german": "Exil",
+        "hindi": "निर्वासन",
+        "tamil": "நடந்து விடுதல்"
+      },
+      "definition": {
+        "spanish": "ser obligado a dejar el hogar o el país",
+        "french": "être forcé de quitter son foyer ou son pays",
+        "german": "gezwungen sein, sein Zuhause oder Land zu verlassen",
+        "hindi": "किसी के घर या देश को छोड़ने के लिए मजबूर होना",
+        "tamil": "ஒருவரது வீடு அல்லது நாட்டை விட்டு வெளியேறத் தூண்டப்படுவது"
+      }
+    }
+  },
+  "scarred": {
+    "definition": "marked with scars or lasting emotional damage",
+    "translations": {
+      "word": {
+        "spanish": "cicatrizado",
+        "french": "marqué",
+        "german": "vernarbt",
+        "hindi": "दाग़दार",
+        "tamil": "காயங்கள்"
+      },
+      "definition": {
+        "spanish": "marcado con cicatrices o daño emocional duradero",
+        "french": "marqué par des cicatrices ou des dommages émotionnels durables",
+        "german": "mit Narben oder anhaltendem emotionalem Schaden",
+        "hindi": "दाग के साथ या लंबे समय तक भावनात्मक क्षति",
+        "tamil": "படிகாயங்களால் குறிக்கப்பட்டது அல்லது நீடித்த உணர்ச்சி சேதத்துடன்"
+      }
+    }
+  },
+  "legacy": {
+    "definition": "something handed down from one generation to another",
+    "translations": {
+      "word": {
+        "spanish": "legado",
+        "french": "héritage",
+        "german": "Vermächtnis",
+        "hindi": "विरासत",
+        "tamil": "விருப்பம்"
+      },
+      "definition": {
+        "spanish": "algo que se transmite de una generación a otra",
+        "french": "quelque chose transmis d'une génération à l'autre",
+        "german": "etwas, das von einer Generation zur nächsten weitergegeben wird",
+        "hindi": "जो एक पीढ़ी से दूसरी पीढ़ी तक पहुँचाया गया हो",
+        "tamil": "ஒரு தலைமுறையிலிருந்து மற்றொரு தலைமுறைக்குக் கொடுக்கப்பட்ட ஒன்று"
+      }
+    }
+  },
+  "forbidden": {
+    "definition": "not allowed; prohibited",
+    "translations": {
+      "word": {
+        "spanish": "prohibido",
+        "french": "interdit",
+        "german": "verboten",
+        "hindi": "निषिद्ध",
+        "tamil": "தடை"
+      },
+      "definition": {
+        "spanish": "no permitido; prohibido",
+        "french": "non autorisé; interdit",
+        "german": "nicht erlaubt; verboten",
+        "hindi": "अनुमति नहीं; निषिद्ध",
+        "tamil": "அனுமதிக்கப்படாதது; தடை செய்யப்பட்டது"
+      }
+    }
+  },
+  "enchanted": {
+    "definition": "placed under a spell; charmed",
+    "translations": {
+      "word": {
+        "spanish": "encantado",
+        "french": "enchanté",
+        "german": "verzaubert",
+        "hindi": "मंत्रमुग्ध",
+        "tamil": "மூடிவிட்டது"
+      },
+      "definition": {
+        "spanish": "colocado bajo un hechizo; encantado",
+        "french": "placé sous un sort; charmé",
+        "german": "unter einen Zauber gestellt; bezaubert",
+        "hindi": "जादू के प्रभाव में; मोहित",
+        "tamil": "ஒரு மந்திரத்தால் சூழ்ந்து; கவர்ந்த"
+      }
+    }
+  },
+  "confronted": {
+    "definition": "faced up to and dealt with a challenge or difficult situation",
+    "translations": {
+      "word": {
+        "spanish": "confrontado",
+        "french": "confronté",
+        "german": "konfrontiert",
+        "hindi": "सामना किया",
+        "tamil": "நேர்கொண்டது"
+      },
+      "definition": {
+        "spanish": "enfrentarse y lidiar con un desafío o situación difícil",
+        "french": "faire face à un défi ou à une situation difficile",
+        "german": "sich einer Herausforderung oder schwierigen Situation stellen",
+        "hindi": "एक चुनौती या कठिन स्थिति का सामना किया",
+        "tamil": "சவால் அல்லது கடினமான சூழ்நிலையை எதிர்கொண்டது"
+      }
+    }
+  },
+  "memento": {
+    "definition": "an object kept as a reminder of a person or event",
+    "translations": {
+      "word": {
+        "spanish": "recuerdo",
+        "french": "souvenir",
+        "german": "Andenken",
+        "hindi": "स्मृति चिन्ह",
+        "tamil": "நினைவு"
+      },
+      "definition": {
+        "spanish": "un objeto conservado como recordatorio de una persona o evento",
+        "french": "un objet conservé en souvenir d'une personne ou d'un événement",
+        "german": "ein Objekt, das als Erinnerung an eine Person oder ein Ereignis aufbewahrt wird",
+        "hindi": "एक व्यक्ति या घटना की याद के रूप में रखा गया वस्तु",
+        "tamil": "ஒரு நபர் அல்லது நிகழ்வின் நினைவாக வைத்திருக்கும் பொருள்"
+      }
+    }
+  },
+  "ambushed": {
+    "definition": "attacked by surprise",
+    "translations": {
+      "word": {
+        "spanish": "emboscado",
+        "french": "embusqué",
+        "german": "überfallen",
+        "hindi": "घात लगाकर हमला किया",
+        "tamil": "திடீர் தாக்குதல்"
+      },
+      "definition": {
+        "spanish": "atacado por sorpresa",
+        "french": "attaqué par surprise",
+        "german": "überrascht angegriffen",
+        "hindi": "अचानक हमला किया गया",
+        "tamil": "முன்பக்கம் இல்லாமல் தாக்கப்பட்டது"
+      }
+    }
+  },
+  "compassionate": {
+    "definition": "showing concern for others' suffering or misfortune",
+    "translations": {
+      "word": {
+        "spanish": "compasivo",
+        "french": "compatissant",
+        "german": "mitfühlend",
+        "hindi": "दयालु",
+        "tamil": "அன்பான"
+      },
+      "definition": {
+        "spanish": "mostrar preocupación por el sufrimiento o la desgracia de otros",
+        "french": "montrant de la compassion pour la souffrance des autres",
+        "german": "Besorgnis für das Leid anderer zeigen",
+        "hindi": "दूसरों के दुख के प्रति सहानुभूति दिखाना",
+        "tamil": "மற்றவர்களின் துயரத்திற்காக கருணையுள்ள"
+      }
+    }
+  },
+  "dilemma": {
+    "definition": "a situation requiring a choice between equally undesirable alternatives",
+    "translations": {
+      "word": {
+        "spanish": "dilema",
+        "french": "dilemme",
+        "german": "Dilemma",
+        "hindi": "दुविधा",
+        "tamil": "இரண்டு மனக் குழப்பம்"
+      },
+      "definition": {
+        "spanish": "una situación que requiere una elección entre alternativas igualmente indeseables",
+        "french": "une situation nécessitant un choix entre des alternatives également indésirables",
+        "german": "eine Situation, die eine Wahl zwischen gleichermaßen unerwünschten Alternativen erfordert",
+        "hindi": "एक ऐसी स्थिति जिसमें समान रूप से अवांछनीय विकल्पों में से एक को चुनना पड़ता है",
+        "tamil": "இணையாக விரும்பத்தகாத விருப்பங்களிடையே தேர்வை தேவைப்படும் சூழ்நிலை"
+      }
+    }
+  },
+  "summoned": {
+    "definition": "called upon or brought forward",
+    "translations": {
+      "word": {
+        "spanish": "convocado",
+        "french": "convoqué",
+        "german": "gerufen",
+        "hindi": "बुलाया गया",
+        "tamil": "அழைக்கப்பட்டது"
+      },
+      "definition": {
+        "spanish": "llamado o llevado adelante",
+        "french": "appelé ou mis en avant",
+        "german": "aufgerufen oder vorgebracht",
+        "hindi": "आग्रहित किया गया या आगे लाया गया",
+        "tamil": "அழைக்கப்பட்ட அல்லது முன்னேற்றப்பட்ட"
+      }
+    }
+  },
+  "myth": {
+    "definition": "a traditional story explaining historical events or natural phenomena",
+    "translations": {
+      "word": {
+        "spanish": "mito",
+        "french": "mythe",
+        "german": "Mythos",
+        "hindi": "मिथक",
+        "tamil": "மீதி"
+      },
+      "definition": {
+        "spanish": "una historia tradicional que explica eventos históricos o fenómenos naturales",
+        "french": "une histoire traditionnelle expliquant des événements historiques ou des phénomènes naturels",
+        "german": "eine traditionelle Geschichte, die historische Ereignisse oder natürliche Phänomene erklärt",
+        "hindi": "ऐतिहासिक घटनाओं या प्राकृतिक घटनाओं की व्याख्या करने वाली पारंपरिक कहानी",
+        "tamil": "வரலாற்று நிகழ்வுகள் அல்லது இயற்கை நிகழ்வுகளை விளக்கும் பாரம்பரிய கதை"
+      }
+    }
+  },
+  "reclaim": {
+    "definition": "to retrieve or recover something lost",
+    "translations": {
+      "word": {
+        "spanish": "recuperar",
+        "french": "récupérer",
+        "german": "zurückgewinnen",
+        "hindi": "पुनः प्राप्त करना",
+        "tamil": "மீட்டுக்கொள்"
+      },
+      "definition": {
+        "spanish": "recuperar algo perdido",
+        "french": "récupérer quelque chose de perdu",
+        "german": "etwas Verlorenes zurückholen",
+        "hindi": "खोई हुई चीज़ को पुनः प्राप्त करना",
+        "tamil": "நகைச்சுவையான அல்லது கட்டுப்படுத்த முடியாத"
+      }
+    }
+  },
+  "seized": {
+    "definition": "taken hold of suddenly or forcibly",
+    "translations": {
+      "word": {
+        "spanish": "apoderado",
+        "french": "saisi",
+        "german": "ergriffen",
+        "hindi": "जब्त किया गया",
+        "tamil": "பிடிக்கப்பட்டது"
+      },
+      "definition": {
+        "spanish": "tomado de repente o por la fuerza",
+        "french": "saisi soudainement ou de force",
+        "german": "plötzlich oder gewaltsam ergriffen",
+        "hindi": "अचानक या बलपूर्वक पकड़ लिया गया",
+        "tamil": "திடீரென அல்லது வலியால் பிடிக்கப்பட்டது"
+      }
+    }
+  },
+  "bound": {
+    "definition": "tied or fastened securely",
+    "translations": {
+      "word": {
+        "spanish": "atado",
+        "french": "lié",
+        "german": "gebunden",
+        "hindi": "बंधा हुआ",
+        "tamil": "கட்டப்பட்டது"
+      },
+      "definition": {
+        "spanish": "atado o fijado de forma segura",
+        "french": "attaché ou fixé solidement",
+        "german": "fest gebunden oder befestigt",
+        "hindi": "सुरक्षित रूप से बंधा या मजबूती से बाँधा गया",
+        "tamil": "முனைப்பாக கட்டப்பட்ட அல்லது பிணைக்கப்பட்ட"
+      }
+    }
+  },
+  "resilience": {
+    "definition": "the ability to recover quickly from setbacks",
+    "translations": {
+      "word": {
+        "spanish": "resiliencia",
+        "french": "résilience",
+        "german": "Widerstandsfähigkeit",
+        "hindi": "लचीलापन",
+        "tamil": "திறனேற்றம்"
+      },
+      "definition": {
+        "spanish": "la capacidad de recuperarse rápidamente de contratiempos",
+        "french": "la capacité de se remettre rapidement des revers",
+        "german": "die Fähigkeit, sich schnell von Rückschlägen zu erholen",
+        "hindi": "विपरीत परिस्थितियों से जल्दी उबरने की क्षमता",
+        "tamil": "சிக்கல்களை முந்தி மீண்டு வருவதற்கான திறன்"
+      }
+    }
+  },
+  "privilege": {
+    "definition": "a special right or advantage",
+    "translations": {
+      "word": {
+        "spanish": "privilegio",
+        "french": "privilège",
+        "german": "Privileg",
+        "hindi": "विशेष अधिकार",
+        "tamil": "சிறப்பு உரிமை"
+      },
+      "definition": {
+        "spanish": "un derecho o ventaja especial",
+        "french": "un droit ou avantage spécial",
+        "german": "ein besonderes Recht oder Vorteil",
+        "hindi": "एक विशेष अधिकार या लाभ",
+        "tamil": "சிறப்பான உரிமை அல்லது வாய்ப்பு"
+      }
+    }
+  },
+  "echoes": {
+    "definition": "sounds or reverberations that are repeated",
+    "translations": {
+      "word": {
+        "spanish": "ecos",
+        "french": "échos",
+        "german": "Echos",
+        "hindi": "गूंज",
+        "tamil": "ஒலிக்கைகள்"
+      },
+      "definition": {
+        "spanish": "sonidos o reverberaciones que se repiten",
+        "french": "sons ou réverbérations répétées",
+        "german": "wiederholte Klänge oder Nachhall",
+        "hindi": "पुनः सुनाई देने वाली आवाज़ें",
+        "tamil": "மீண்டும் ஒலிக்கும் ஒலி அல்லது அதிர்வுகள்"
+      }
+    }
+  },
+  "cryptic": {
+    "definition": "having a hidden meaning; mysterious",
+    "translations": {
+      "word": {
+        "spanish": "críptico",
+        "french": "cryptique",
+        "german": "rätselhaft",
+        "hindi": "रहस्यमय",
+        "tamil": "மறைவான"
+      },
+      "definition": {
+        "spanish": "con un significado oculto; misterioso",
+        "french": "ayant une signification cachée; mystérieux",
+        "german": "mit einer versteckten Bedeutung; geheimnisvoll",
+        "hindi": "एक छिपा हुआ अर्थ; रहस्यमय",
+        "tamil": "மறைவு பொருளுடையது; மர்மமான"
+      }
+    }
+  },
+  "guardian": {
+    "definition": "a defender or protector",
+    "translations": {
+      "word": {
+        "spanish": "guardián",
+        "french": "gardien",
+        "german": "Wächter",
+        "hindi": "रक्षक",
+        "tamil": "பாதுகாவலர்"
+      },
+      "definition": {
+        "spanish": "un defensor o protector",
+        "french": "un défenseur ou protecteur",
+        "german": "ein Verteidiger oder Beschützer",
+        "hindi": "एक रक्षक या संरक्षक",
+        "tamil": "ஒரு காக்கி அல்லது பாதுகாப்பாளர்"
+      }
+    }
+  },
+  "eluded": {
+    "definition": "escaped or avoided in a skillful or cunning way",
+    "translations": {
+      "word": {
+        "spanish": "eludido",
+        "french": "échappé",
+        "german": "entkommen",
+        "hindi": "बचना",
+        "tamil": "தவிர்த்தது"
+      },
+      "definition": {
+        "spanish": "escapado o evitado de manera hábil",
+        "french": "échappé ou évité habilement",
+        "german": "geschickt oder gerissen entkommen",
+        "hindi": "चतुराई से बचना",
+        "tamil": "விசாரணையாக அல்லது கபடமாக தவிர்க்கப்பட்டது"
+      }
+    }
+  },
+  "embrace": {
+    "definition": "to accept or support willingly or enthusiastically",
+    "translations": {
+      "word": {
+        "spanish": "abrazar",
+        "french": "embrasser",
+        "german": "umarmen",
+        "hindi": "अपनाना",
+        "tamil": "அடக்குதல்"
+      },
+      "definition": {
+        "spanish": "aceptar o apoyar de buena gana o con entusiasmo",
+        "french": "accepter ou soutenir volontiers ou avec enthousiasme",
+        "german": "bereitwillig oder begeistert akzeptieren oder unterstützen",
+        "hindi": "स्वेच्छा से या उत्साहपूर्वक समर्थन करना",
+        "tamil": "சுதந்திரமாக அல்லது உற்சாகமாக ஏற்றுக்கொள்ளுதல்"
+      }
+    }
+  },
+  "nostalgia": {
+    "definition": "a sentimental longing for the past, typically for a period or place with happy memories",
+    "translations": {
+      "word": {
+        "spanish": "nostalgia",
+        "french": "nostalgie",
+        "german": "Nostalgie",
+        "hindi": "अतीत की याद",
+        "tamil": "பழைய நினைவு"
+      },
+      "definition": {
+        "spanish": "una añoranza sentimental del pasado, normalmente por un período o lugar con recuerdos felices",
+        "french": "un désir sentimental du passé, généralement pour une période ou un lieu avec des souvenirs heureux",
+        "german": "eine sentimentale Sehnsucht nach der Vergangenheit, meist für eine glückliche Zeit oder einen Ort",
+        "hindi": "अतीत के लिए एक भावुक लालसा, आमतौर पर सुखद यादों के लिए",
+        "tamil": "முந்தைய நாட்கள் அல்லது மகிழ்ச்சியான நினைவுகளை நினைத்தல்"
+      }
+    }
+  },
+  "delved": {
+    "definition": "investigated or researched deeply into a subject or issue",
+    "translations": {
+      "word": {
+        "spanish": "indagado",
+        "french": "plongé",
+        "german": "vertieft",
+        "hindi": "गहराई से जांच की",
+        "tamil": "ஆழமாக ஆராய்ந்தது"
+      },
+      "definition": {
+        "spanish": "investigado o investigado profundamente en un tema o problema",
+        "french": "investigué ou recherché profondément un sujet ou un problème",
+        "german": "eingehend untersucht oder erforscht",
+        "hindi": "विषय में गहराई से जांच की या शोध किया",
+        "tamil": "ஒரு பொருள் அல்லது பிரச்சனை ஆழமாக ஆராயப்பட்டது"
+      }
+    }
+  },
+  "secluded": {
+    "definition": "hidden, private, or away from other people",
+    "translations": {
+      "word": {
+        "spanish": "aislado",
+        "french": "isolé",
+        "german": "abgelegen",
+        "hindi": "एकांत",
+        "tamil": "தனிமைப்படுத்தப்பட்ட"
+      },
+      "definition": {
+        "spanish": "oculto, privado o alejado de otras personas",
+        "french": "caché, privé ou éloigné des autres",
+        "german": "versteckt, privat oder weg von anderen Menschen",
+        "hindi": "छिपा हुआ, निजी, या अन्य लोगों से दूर",
+        "tamil": "மற்றவர்களிடமிருந்து தனிமைப்படுத்தப்பட்ட அல்லது தனிப்பட்டது"
+      }
+    }
+  },
+  "innate": {
+    "definition": "a quality or ability that is natural and present from birth",
+    "translations": {
+      "word": {
+        "spanish": "innato",
+        "french": "inné",
+        "german": "angeboren",
+        "hindi": "जन्मजात",
+        "tamil": "இயற்கை"
+      },
+      "definition": {
+        "spanish": "una cualidad o habilidad que es natural y presente desde el nacimiento",
+        "french": "une qualité ou une capacité naturelle présente dès la naissance",
+        "german": "eine Qualität oder Fähigkeit, die von Natur aus und seit Geburt vorhanden ist",
+        "hindi": "एक प्राकृतिक गुण या क्षमता जो जन्म से मौजूद होती है",
+        "tamil": "பிறப்பிலிருந்தே உள்ள இயற்கையான குணம் அல்லது திறன்"
+      }
+    }
+  },
+  "arcane": {
+    "definition": "understood by few; mysterious or secret",
+    "translations": {
+      "word": {
+        "spanish": "arcano",
+        "french": "arcanique",
+        "german": "geheimnisvoll",
+        "hindi": "गूढ़",
+        "tamil": "ரகசியமான"
+      },
+      "definition": {
+        "spanish": "entendido por pocos; misterioso o secreto",
+        "french": "compris par peu; mystérieux ou secret",
+        "german": "von wenigen verstanden; geheimnisvoll oder geheim",
+        "hindi": "कुछ ही लोगों द्वारा समझा गया; रहस्यमय या गुप्त",
+        "tamil": "முட்டமான அல்லது ரகசியமானது"
+      }
+    }
+  },
+  "intriguing": {
+    "definition": "arousing curiosity or interest; fascinating",
+    "translations": {
+      "word": {
+        "spanish": "intrigante",
+        "french": "intrigant",
+        "german": "faszinierend",
+        "hindi": "रोमांचक",
+        "tamil": "விசித்திரமான"
+      },
+      "definition": {
+        "spanish": "que despierta curiosidad o interés; fascinante",
+        "french": "éveillant la curiosité ou l'intérêt; fascinant",
+        "german": "Neugier oder Interesse weckend; faszinierend",
+        "hindi": "जिज्ञासा या रुचि पैदा करने वाला; आकर्षक",
+        "tamil": "ஆர்வத்தைத் தூண்டும் அல்லது கவனத்தை ஈர்க்கும்"
+      }
+    }
+  },
+  "firm": {
+    "definition": "strongly felt, resolute, or unyielding",
+    "translations": {
+      "word": {
+        "spanish": "firme",
+        "french": "ferme",
+        "german": "fest",
+        "hindi": "दृढ़",
+        "tamil": "திடமான"
+      },
+      "definition": {
+        "spanish": "fuertemente sentido, resuelto o inflexible",
+        "french": "fortement ressenti, résolu ou inflexible",
+        "german": "stark gefühlt, entschlossen oder unnachgiebig",
+        "hindi": "मजबूत, दृढ़ संकल्पित या अडिग",
+        "tamil": "உறுதியான அல்லது மாற்றமில்லாத"
+      }
+    }
+  },
+  "yearned": {
+    "definition": "felt a strong desire or longing for something",
+    "translations": {
+      "word": {
+        "spanish": "anhelado",
+        "french": "désiré ardemment",
+        "german": "verlangte",
+        "hindi": "लालसा की",
+        "tamil": "ஆவலுடன் நினைத்தது"
+      },
+      "definition": {
+        "spanish": "sintió un fuerte deseo o anhelo por algo",
+        "french": "ressenti un fort désir ou une aspiration pour quelque chose",
+        "german": "ein starkes Verlangen oder Sehnen nach etwas verspürt",
+        "hindi": "किसी चीज़ की तीव्र इच्छा या लालसा महसूस की",
+        "tamil": "ஏதோ ஒன்றின் மீது ஆழ்ந்த ஆசையை உணர்ந்தது"
+      }
+    }
+  },
+  "enigmatic": {
+    "definition": "mysterious, difficult to interpret or understand",
+    "translations": {
+      "word": {
+        "spanish": "enigmático",
+        "french": "énigmatique",
+        "german": "rätselhaft",
+        "hindi": "रहस्यमय",
+        "tamil": "மர்மமான"
+      },
+      "definition": {
+        "spanish": "misterioso, difícil de interpretar o entender",
+        "french": "mystérieux, difficile à interpréter ou comprendre",
+        "german": "geheimnisvoll, schwer zu interpretieren oder zu verstehen",
+        "hindi": "रहस्यमय, समझने या व्याख्या करने में कठिन",
+        "tamil": "விளக்கவும் புரிந்துகொள்வதற்கும் கடினமானது"
+      }
+    }
+  },
+  "plagued": {
+    "definition": "troubled or distressed continually, especially with a problem or disease",
+    "translations": {
+      "word": {
+        "spanish": "afligido",
+        "french": "tourmenté",
+        "german": "heimgesucht",
+        "hindi": "पीड़ित",
+        "tamil": "தொந்தரவு செய்யப்பட்ட"
+      },
+      "definition": {
+        "spanish": "afligido o angustiado continuamente, especialmente con un problema o enfermedad",
+        "french": "troublé ou angoissé continuellement, en particulier par un problème ou une maladie",
+        "german": "ständig geplagt oder gequält, insbesondere durch ein Problem oder eine Krankheit",
+        "hindi": "लगातार किसी समस्या या बीमारी से परेशान या दुखी",
+        "tamil": "தொடர்ச்சியாக ஒரு சிக்கல் அல்லது நோயால் பாதிக்கப்பட்டது"
+      }
+    }
+  },
+  "scrawled": {
+    "definition": "wrote or drew something carelessly or hastily",
+    "translations": {
+      "word": {
+        "spanish": "garabateado",
+        "french": "griffonné",
+        "german": "gekritzelt",
+        "hindi": "घसीटकर लिखा",
+        "tamil": "விரைவாக எழுதப்பட்டது"
+      },
+      "definition": {
+        "spanish": "escribió o dibujó algo descuidadamente o apresuradamente",
+        "french": "écrit ou dessiné quelque chose négligemment ou à la hâte",
+        "german": "etwas nachlässig oder hastig geschrieben oder gezeichnet",
+        "hindi": "जल्दबाजी या लापरवाही से कुछ लिखा या खींचा",
+        "tamil": "அவசரமாக அல்லது அலட்சியமாக ஏதாவது எழுதப்பட்டது அல்லது வரையப்பட்டது"
+      }
+    }
+  },
+  "resonate": {
+    "definition": "to produce or evoke a strong feeling of connection or agreement",
+    "translations": {
+      "word": {
+        "spanish": "resonar",
+        "french": "résonner",
+        "german": "erklingen",
+        "hindi": "गूंजना",
+        "tamil": "ஒலி அதிர்ச்சி"
+      },
+      "definition": {
+        "spanish": "producir o evocar un fuerte sentimiento de conexión o acuerdo",
+        "french": "produire ou évoquer un fort sentiment de connexion ou d'accord",
+        "german": "ein starkes Gefühl der Verbindung oder Übereinstimmung hervorrufen oder erzeugen",
+        "hindi": "कनेक्शन या समझौते की एक मजबूत भावना उत्पन्न करना या उकसाना",
+        "tamil": "ஒரு வலுவான இணைப்பு அல்லது ஒப்புதல் உணர்வை உருவாக்குவது அல்லது தூண்டும்"
+      }
+    }
+  },
+  "overwhelming": {
+    "definition": "very intense or overpowering in effect or emotion",
+    "translations": {
+      "word": {
+        "spanish": "abrumador",
+        "french": "accablant",
+        "german": "überwältigend",
+        "hindi": "अत्यधिक",
+        "tamil": "மிகுந்த அதிர்ச்சியூட்டும்"
+      },
+      "definition": {
+        "spanish": "muy intenso o abrumador en efecto o emoción",
+        "french": "très intense ou accablant dans l'effet ou l'émotion",
+        "german": "sehr intensiv oder überwältigend in Wirkung oder Emotion",
+        "hindi": "प्रभाव या भावना में बहुत तीव्र या प्रबल",
+        "tamil": "அதிகமாக உணர்வை உருவாக்குவது அல்லது மூழ்கடிக்கின்றது"
+      }
+    }
+  },
+  "tread": {
+    "definition": "to step or walk on or along something carefully",
+    "translations": {
+      "word": {
+        "spanish": "pisar",
+        "french": "marcher",
+        "german": "treten",
+        "hindi": "पदचिह्न",
+        "tamil": "மிதிக்க"
+      },
+      "definition": {
+        "spanish": "pisar o caminar sobre algo con cuidado",
+        "french": "marcher ou poser le pied sur quelque chose avec précaution",
+        "german": "auf etwas vorsichtig treten oder gehen",
+        "hindi": "किसी चीज पर ध्यान से कदम रखना या चलना",
+        "tamil": "எதையாவது கவனமாக நடப்பது அல்லது மிதிப்பது"
+      }
+    }
+  },
+  "groomed": {
+    "definition": "neatly and carefully maintained, often in appearance or behavior",
+    "translations": {
+      "word": {
+        "spanish": "arreglado",
+        "french": "soigné",
+        "german": "gepflegt",
+        "hindi": "सजीला",
+        "tamil": "நன்றாக பராமரிக்கப்பட்ட"
+      },
+      "definition": {
+        "spanish": "cuidado y mantenido con esmero, a menudo en apariencia o comportamiento",
+        "french": "soigné et soigneusement entretenu, souvent dans l'apparence ou le comportement",
+        "german": "ordentlich und sorgfältig gepflegt, oft im Aussehen oder Verhalten",
+        "hindi": "अक्सर उपस्थिति या व्यवहार में अच्छी तरह से बनाए रखा",
+        "tamil": "தோற்றத்தில் அல்லது நடத்தையில் நன்றாக பராமரிக்கப்பட்டது"
+      }
+    }
+  },
+  "empathy": {
+    "definition": "the ability to understand and share the feelings of another",
+    "translations": {
+      "word": {
+        "spanish": "empatía",
+        "french": "empathie",
+        "german": "Empathie",
+        "hindi": "सहानुभूति",
+        "tamil": "உணர்வுபகிர்தல்"
+      },
+      "definition": {
+        "spanish": "la capacidad de comprender y compartir los sentimientos de otro",
+        "french": "la capacité de comprendre et de partager les sentiments d'un autre",
+        "german": "die Fähigkeit, die Gefühle eines anderen zu verstehen und zu teilen",
+        "hindi": "दूसरे की भावनाओं को समझने और साझा करने की क्षमता",
+        "tamil": "மற்றவரின் உணர்ச்சிகளை புரிந்துகொள்வதும் பகிர்வதற்கும் திறன்"
+      }
+    }
+  },
+  "donned": {
+    "definition": "put on a piece of clothing or an accessory",
+    "translations": {
+      "word": {
+        "spanish": "puesto",
+        "french": "enfilé",
+        "german": "angezogen",
+        "hindi": "पहना",
+        "tamil": "அணிந்தது"
+      },
+      "definition": {
+        "spanish": "ponerse una prenda de vestir o un accesorio",
+        "french": "mettre un vêtement ou un accessoire",
+        "german": "ein Kleidungsstück oder ein Accessoire anziehen",
+        "hindi": "कपड़ा या सहायक उपकरण पहनना",
+        "tamil": "உடை அல்லது ஆடை அணிந்தது"
+      }
+    }
+  },
+  "disguise": {
+    "definition": "a means of altering one's appearance to conceal identity",
+    "translations": {
+      "word": {
+        "spanish": "disfraz",
+        "french": "déguisement",
+        "german": "Verkleidung",
+        "hindi": "वेशभूषा",
+        "tamil": "மாறுவேடம்"
+      },
+      "definition": {
+        "spanish": "un medio de alterar la apariencia para ocultar la identidad",
+        "french": "un moyen de modifier l'apparence pour dissimuler l'identité",
+        "german": "ein Mittel, das Aussehen zu verändern, um die Identität zu verbergen",
+        "hindi": "पहचान छुपाने के लिए उपस्थिति बदलने का एक साधन",
+        "tamil": "அடையாளத்தை மறைக்க தோற்றத்தை மாற்றும் வழி"
+      }
+    }
+  },
+  "relinquishing": {
+    "definition": "voluntarily giving up or letting go of something",
+    "translations": {
+      "word": {
+        "spanish": "renunciando",
+        "french": "abandonnant",
+        "german": "aufgebend",
+        "hindi": "त्यागना",
+        "tamil": "கைவிடுதல்"
+      },
+      "definition": {
+        "spanish": "renunciar voluntariamente o dejar ir algo",
+        "french": "renoncer volontairement ou abandonner quelque chose",
+        "german": "freiwillig etwas aufgeben oder loslassen",
+        "hindi": "स्वेच्छा से किसी चीज़ को छोड़ देना",
+        "tamil": "எதையாவது சுயமாக கைவிடுதல் அல்லது விட்டுவிடுதல்"
+      }
+    }
+  },
+  "vowing": {
+    "definition": "making a solemn promise or commitment",
+    "translations": {
+      "word": {
+        "spanish": "jurando",
+        "french": "jurant",
+        "german": "geloben",
+        "hindi": "संकल्प लेना",
+        "tamil": "உறுதிமொழி கூறுதல்"
+      },
+      "definition": {
+        "spanish": "hacer una promesa o compromiso solemne",
+        "french": "faire une promesse ou un engagement solennel",
+        "german": "ein feierliches Versprechen oder eine Verpflichtung eingehen",
+        "hindi": "एक गंभीर वादा या प्रतिबद्धता करना",
+        "tamil": "ஒரு பிரம்மாண்டமான வாக்குறுதியை செய்யுதல்"
+      }
+    }
+  },
+  "fierce": {
+    "definition": "showing intense aggressiveness, determination, or emotion",
+    "translations": {
+      "word": {
+        "spanish": "feroz",
+        "french": "féroce",
+        "german": "heftig",
+        "hindi": "उग्र",
+        "tamil": "மிகவும் கொடிய"
+      },
+      "definition": {
+        "spanish": "mostrando una agresividad, determinación o emoción intensa",
+        "french": "montrant une agressivité, une détermination ou une émotion intense",
+        "german": "intensive Aggressivität, Entschlossenheit oder Emotion zeigen",
+        "hindi": "गंभीर आक्रामकता, दृढ़ संकल्प या भावना दिखाना",
+        "tamil": "உணர்ச்சி, உறுதியான நோக்கம் அல்லது தீவிரமான கோபம் காட்டுதல்"
+      }
+    }
+  }
+  }
+  
